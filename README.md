@@ -2,7 +2,8 @@
 - 👀 I’m interested in tech, games and digital arts.
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on front-end
-- 📫 How to reach me: ecarval3@outloo.com
+- 📫 How to reach me: ecarval3@outlook.com
+- 🌠 My LinkedIn: https://www.linkedin.com/in/eduardo-carvalho-a2203a233/
 
 <!---
 HeyDuduuuuu/HeyDuduuuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
